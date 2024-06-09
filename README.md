@@ -1,6 +1,6 @@
 ## Project Description
 
-This project is aimed to explore and clean data along with creating visualizations with the purpose of analysing customer purchasing behaviour in the bike sales dataset.
+This project is aimed to explore and clean data along with creating visualizations with the purpose of analysing customer purchasing behaviour for a bike sales dataset.
 
 ## Insights derived from visualizations and pivot tables
 
