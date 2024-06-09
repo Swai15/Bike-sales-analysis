@@ -11,4 +11,4 @@ This project is aimed to explore and clean data along with creating visualizatio
 
 ## Dashboard Preview with interactive filters
 
-![Dashboard snippet](https://i.imgur.com/A7hmOyl)
+![Dashboard snippet](https://i.imgur.com/A7hmOyl.png)
